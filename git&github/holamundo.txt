@@ -1,1 +1,6 @@
-roman santana sandoval
+git config --global user.name "RomanSantana"
+git config --global user.email "romansantanasandoval@gmail.com"
+git config --list
+
+git remote add origin https://github.com/RomanSantana/Nogara.git   conectandose a repositorio
+
